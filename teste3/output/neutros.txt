@@ -1,0 +1,23 @@
+Pizzaria Italia	1	1	boa: 1; demorado: 1; 
+Muhamad's	0	0	
+Genio	0	0	
+Rei das Esfirras	0	0	
+Jeremias	0	0	
+Almeida	0	0	
+Infront	0	0	
+Adelaidean	0	0	
+Best Poke	0	0	
+Sabor do Oriente	0	0	
+Marmitex Delicia	0	0	
+Marmitaria O Sabor	0	0	
+Galimont	0	0	
+Falcao	0	0	
+Tempero e Cia	0	0	
+Alberto Petiscos	0	0	
+La Borada	0	0	
+Restaurante Puro Tempero	0	0	
+Coma Bem	0	0	
+Bendita Fome	0	0	
+O Covil	0	0	
+Pizzao	0	0	
+Espetos Espertos	0	0	

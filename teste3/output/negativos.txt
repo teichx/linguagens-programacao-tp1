@@ -1,0 +1,4 @@
+Lanchonete La Chapa	1	2	bons: 1; demorado: 1; barulhento: 1; 
+Pizza Crok	0	2	pouquissimos: 1; minusculos: 1; 
+Pizza Craque	0	3	errado: 1; caro: 2; 
+Alibaba's	0	2	errado: 1; caro: 1; 

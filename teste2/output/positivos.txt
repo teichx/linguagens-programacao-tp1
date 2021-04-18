@@ -1,0 +1,6 @@
+La Palma	1	0	rapida: 1; 
+Hora Certa	2	0	rapida: 1; fumegante: 1; 
+Choppane	1	0	top: 1; 
+Latao	2	0	lindo: 1; animada: 1; 
+Apptite	1	0	barato: 1; 
+Restaurante do Marcao	2	0	limpo: 1; arejado: 1; 

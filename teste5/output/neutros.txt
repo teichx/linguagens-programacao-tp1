@@ -1,0 +1,18 @@
+Pizzaria Italia	1	1	boa: 1; demorado: 1; 
+Muhamad's	0	0	
+Adelaidean	0	0	
+Best Poke	0	0	
+Marmitaria O Sabor	0	0	
+Falcao	0	0	
+Tempero e Cia	0	0	
+La Palma	0	0	
+Restaurante Puro Tempero	0	0	
+Coma Bem	0	0	
+Paulo Bar e Cozinha	0	0	
+Vem Que Tem	0	0	
+Choppane	0	0	
+Bendita Fome	0	0	
+Pizzao	0	0	
+Pizza e Pao	1	1	boa: 1; demora: 1; 
+Cara Cozinha	0	0	
+Apptite	0	0	

@@ -1,0 +1,56 @@
+Restaurantes classificados corretamente: 16
+Pizza Craque
+Alibaba's
+Muhamad's
+Genio
+Almeida
+Bistrô Truta
+Alberto Petiscos
+La Borada
+La Palma
+Hora Certa
+Choppane
+Bendita Fome
+Latao
+Apptite
+Restaurante do Marcao
+Espetos Espertos
+
+Restaurantes classificados incorretamente: 35
+Restaurante Cheiro Verde
+Lanchonete La Chapa
+Pizzaria Italia
+Pizza Crok
+Arabia
+Rei das Esfirras
+Jeremias
+Infront
+Adelaidean
+Genai
+Best Poke
+Sabor do Oriente
+Marmitex Delicia
+Marmitaria O Sabor
+Galimont
+Falcao
+Sabia
+O Panquecao
+Tempero e Cia
+Barunas Grill
+Porko's
+Parrilla
+El Chaco
+Restaurante Puro Tempero
+Coma Bem
+Cozinha Gastrobar
+Paulo Bar e Cozinha
+Vem Que Tem
+Chopp e Cia
+O Covil
+Pizzao
+Pizza e Pao
+Chuck's
+Cara Cozinha
+Riso e Brasa
+
+Acurácia do modelo: 0.31

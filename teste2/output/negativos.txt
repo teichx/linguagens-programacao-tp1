@@ -1,0 +1,10 @@
+Restaurante Cheiro Verde	0	1	demorado: 1; 
+Lanchonete La Chapa	0	1	demorado: 1; 
+Pizzaria Italia	0	1	demorado: 1; 
+Pizza Craque	0	5	caro: 2; pouquissima: 1; ruim: 1; pessimo: 1; 
+Alibaba's	0	2	caro: 1; pessimo: 1; 
+Genio	0	1	remexido: 1; 
+Rei das Esfirras	0	1	aguado: 1; 
+Marmitex Delicia	0	1	ruim: 1; 
+Alberto Petiscos	0	1	pessimo: 1; 
+Espetos Espertos	0	1	pessimo: 1; 

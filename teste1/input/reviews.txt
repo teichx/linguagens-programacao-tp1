@@ -1,0 +1,52 @@
+51
+Restaurante Cheiro Verde;4.2;Tudo otimo, comida saborosa, atendimento otimo, muito bom, so um pouco demorado.
+Lanchonete La Chapa;2.7;Atendimento demorado, lugar barulhento, mas lanches muito bons.
+Pizzaria Italia;3.2;Pizza boa, mas atendimento demorado
+Pizza Crok;2.1;Na mexicana veio apenas dois peperonni. A quatro queijos parecia feita apenas de catupiry e mussarela. Pouquissimos e minusculos pedacos de gorgonzola.
+Pizza Craque;1.2;Mais de duas horas pra receber o pedido e ainda veio errado. Muito caro, pouquissima comida. Nunca que vale o preco. Pra falar a verdade, achei extremamente sem graca. Caro, ruim e pessimo servico. Nunca mais.
+Alibaba's;1.3;Pedido atrasou muito, chegou frio, atendimento pessimo, valor caro e ainda veio errado fazendo demorar muito, fiz o pedido as 21:20 e agora que finalizou/recebi o pedido completo as 00:35 nao volto a comprar.
+Muhamad's;3.2;Nao veio a agua.
+Arabia;5.0;Otimo atendimento!
+Genio;1.0;O meu primeiro pedido e veio quase sem recheio as esfirras, a de queijo com molho e manjericao so tinha molho, nem um queijo, veio tudo remexido na embalagem, sem sal nenhum.
+Rei das Esfirras;3.8;O suco veio muito "aguado"... so tem gosto de agua e nada morango.
+Jeremias;3.5;O pedido chegou atrasado e a unica forma de resolver era ligando no restaurante. Mas a ligacao nao completava. Qdo chegou, chegou frio.
+Almeida;2.8;Bacon esturricado e a qualidade da carne caiu muito.
+Infront;2.1;Poderia ter sido menos pior se a batata que pedi tivesse vindo, alem de ter vindo menos maionese e mostarda do que pedi. Nao sei pra que te dao a opcao de escolher entre maionese, mostarda e ketchup se mandam o que querem. Quanto ao sabor, esperava muito mais.
+Adelaidean;3.8;O pedido chegou frio. Pedi 9 saches de maionese e foram entregues apenas 2. Mas gostei do sabor do pedido e da amostra da sobremesa.
+Genai;5.0;Genai sempre muito bom! Comida quentinha e saborosa.
+Best Poke;5.0;O poke estava simplesmente maravilhoso, nada a reclamar!!
+Sabor do Oriente;4.0;Tempura veio murcho. Entrega atrasou meia hora.
+Marmitex Delicia;5.0;Comida otima, bem embalada, chegou no prazo. Experiencia ruim com a entrega, entregadora sem mascara, nao entregou no local correto e ainda por cima mal educada.
+Marmitaria O Sabor;5.0;Voces estao de parabens! Comida maravilhosa, e entrega antes da hora marcada!
+Bistrô Truta;2.5;A comida e boa, mas pedi para enviar coca cola zero e enviaram a normal. Sou diabetico.
+Galimont;4.0;Pedi um filet, mas O arroz piamontese estava bem duro, parecendo ainda na primeira agua. Nao foi possivel comer. Gosto muito do restaurante e espero que nao se repita.
+Falcao;5.0;Espaguetao e panquecao sao excelentes. Servem muito bem duas pessoas.
+Sabia;4.5;Exelente cardapio muito bom atendimento mas localizacao impede uma tranquilidade maior com criancas por falta de policiamento e iluminacao.
+O Panquecao;4.8;Muito boas as panquecas e o macarrao, so achei um pouco forte o tempero, porem sao muito bons.
+Tempero e Cia;5.0;Atendimento excelente e super rapido. A batata recheada e uma delicia e adorei a opcao do vinho.
+Alberto Petiscos;2.4;Minha experiencia foi mais ou menos, gostei da comida mais o atendimento e pessimo, perguntei uma das atendentes o tamanho da porcao e ela nem sabia me dizer direito, nao sabia se era 400g ou 200g de batata, confundiu o refrigerante pedi coca cola 600 e ela me trouxe a mini, restaurante muito bonito, da comida nao tenho o que reclamar, o rapaz do caixa muito educado, mas o atendimento esta muito mal preparado!
+Barunas Grill;5.0;Lugar aconchegante, pizza saborosa e precos justos.
+La Borada;2.5;Rodizio de pizza bem fraco. Apenas 6 opcoes salgadas e 2 doces. Pizza salgada tinha pouco recheio e todas praticamente so mucarela. R$ 24,90 por pessoa, nas tercas-feiras.
+Porko's;5.0;Local muito agradavel. Proprietario muito simpatico. Salao amplo e aconchegante. Comida muito boa e a pizza sensacional no forno a lenha.
+Parrilla;5.0;A Pizza e muito boa. Perfeito para reuniao familiar.
+La Palma;5.0;Restaurante muito legal! Comida a la carte farta e rapida!
+El Chaco;3.5;Comida boa, o japones do self service tambem e bom. Apenas a pizza e um pouco enjoativa, mas pra quem gosta de bastante queijo e boa.
+Restaurante Puro Tempero;2.0;Nao existe foco no cliente. Parecem nao querer ouvir criticas ou o ponto de vista do consumidor.
+Coma Bem;3.9;O restaurante e aconchegante, nao tem tanta variedade mas a comida e muito gostosa. O sistema de preco onde ha um teto de preco e interessante, paga-se por peso, mas se chegar nesse valor por pessoa so sera pago ele. Ou seja, e um restaurante de comida a vontade que tambem  e vantajoso para quem come pouco, pois vai pagar so o peso.
+Hora Certa;3.5;Bom bar, bom atendimento, a porcao que leva o nome da casa e otima. Boa qualidade, boa quantidade, rapida e fumegante. Facil acesso, facil de achar lugar para estacionar por perto.
+Cozinha Gastrobar;5.0;Tudo delicia. Otimo atendimento. E otimo pra quem tem criancas.
+Paulo Bar e Cozinha;4.5;Ambiente agradavel, bem decorado e organizado. Variedades de petiscos e bebidas. Precos um pouco acima da media de outros bares da cidade.
+Vem Que Tem;1.5;Ambiente muito agradavel mas o atendimento deixou a desejar. Nao recomendo.
+Choppane;5.0;Muito top o lugar.Pessoal agradavel.  Muito solicito e amigavel. Atendimento nota mil.
+Chopp e Cia;4.5;Local muito agradavel e otimo atendimento, preco elevado, mas tudo com muita qualidade. O bolinho de carne e muito bom!!! Vale a pena!!
+Bendita Fome; 3.0;Muito quente o ambiente. Pouco ventilado!
+O Covil; 1.5;Atendimento horrivel. Ja havia escutado relatos sobre isso, porem duvidava. Fiquei 10 minutos sentado na mesa sem sequer uma olhada de um atendente. Nao vale a pena...
+Pizzao;4.0;Nao e a melhor pizza, mas as criancas gostam de ir por ter alguns brinquedos. Preco razoavel.
+Pizza e Pao;4.5;Pizza muito boa. O rodizio poderia ser um pouco melhor. Quando esta muito cheio a pizza demora um pouco a ser servida. Mas se nao estiver com pressa, saira satisfeito.
+Latao;5.0;Lugar maravilhoso, lindo!!! E bom chegar cedo pq enche. Cerveja estupidamente gelada, porcao maravilhosa e banda super animada. Nota 100.
+Chuck's;3.5;Ambiente jovem, bons drinks e bom atendimento.
+Cara Cozinha;5.0;Ambiente sensacional, cozinha maravilhosa, excelente atendimento e preco justo.
+Apptite;5.0;Excelente, comida maravilhosa feita com amor. Tempero sensacional. Muuuuuito barato
+Restaurante do Marcao;3.5;O local e limpo e arejado, tem um pequeno espaco kids e um bom atendimento. Peca pela pouca variedade de verduras, legumes e saladas, acrescentar arroz integral tambem seria uma boa ideia.
+Riso e Brasa;5.0;Boa opcao de self service na regiao, com cardapio variado e boas opcoes de churrasco.
+Espetos Espertos;1.2;Feijao salgado, batata queimada e churrasco so veio linguica. Deixou muito a desejar, nao compro nunca mais e nao recomendo. Pessimo!!!
