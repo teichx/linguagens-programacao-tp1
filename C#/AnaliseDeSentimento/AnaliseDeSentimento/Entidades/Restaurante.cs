@@ -1,22 +1,24 @@
-﻿using System;
+﻿using AnaliseDeSentimento.Arquivo;
+using AnaliseDeSentimento.Constantes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace AnaliseDeSentimento
+namespace AnaliseDeSentimento.Entidades
 {
     public class Restaurante
     {
         public string Nome { get; init; }
-        public float Estrelas { get; init; }
+        public decimal Estrelas { get; init; }
         public string Avaliacao { get; init; }
 
-        public int Classificacao { get; private set; }
+        public EnumClassificacao Classificacao { get; private set; }
         public Dictionary<string, int> Termos { get; private set; }
         public int TermosPositivos { get; private set; }
         public int TermosNegativos { get; private set; }
 
 
-        public Restaurante(ValueTuple<string, float, string> tuple)
+        public Restaurante(ValueTuple<string, decimal, string> tuple)
         {
             var (nome, estrelas, avaliacao) = tuple;
 
@@ -34,12 +36,12 @@ namespace AnaliseDeSentimento
         public static List<Restaurante> ListaDeRestaurantes(LerArquivo arquivo)
             => arquivo.Linhas.Select(linha => new Restaurante(SeparaLinha(linha))).ToList();
 
-        static ValueTuple<string, float, string> SeparaLinha(string linha)
+        static ValueTuple<string, decimal, string> SeparaLinha(string linha)
         {
             var dadosRestaurante = linha.Split(";");
 
             var nome = dadosRestaurante[0];
-            var estrelas = float.Parse(dadosRestaurante[1]);
+            var estrelas = decimal.Parse(dadosRestaurante[1].Replace('.', ','));
             var avaliacao = dadosRestaurante[2];
 
             return new(nome, estrelas, avaliacao);
@@ -50,16 +52,29 @@ namespace AnaliseDeSentimento
             var avaliacaoTemp = AvaliacaoTemporaria();
             termos.Items.ForEach((termoAtual) =>
             {
-                while(avaliacaoTemp.Contains(termoAtual))
+                while (avaliacaoTemp.Contains(termoAtual))
                 {
                     AdicionarTermo(termoAtual, termos.Tipo);
                     avaliacaoTemp.Remove(termoAtual);
                 }
             });
+
+            Classificacao = ClassificarAvaliacao();
         }
 
+        EnumClassificacao ClassificarAvaliacao()
+            => (TermosPositivos - TermosNegativos) switch
+            {
+                > 0 => EnumClassificacao.Positiva,
+                0 => EnumClassificacao.Neutra,
+                < 0 => EnumClassificacao.Negativa
+            };
+
         IList<string> AvaliacaoTemporaria()
-            => Avaliacao.Split(' ', '!', '.', ',', ':', ';').ToList();
+            => Avaliacao
+                .ToLower()
+                .Split(' ', '!', '.', ',', ':', ';')
+                .ToList();
 
         void AdicionarTermo(string termo, EnumTermos tipo)
         {
@@ -76,9 +91,9 @@ namespace AnaliseDeSentimento
         {
             if (EnumTermos.Positivo == tipo)
                 TermosPositivos += 1;
-            
+
             if (EnumTermos.Negativo == tipo)
-                TermosNegativos+= 1;
+                TermosNegativos += 1;
         }
 
         string ExibirTermos()

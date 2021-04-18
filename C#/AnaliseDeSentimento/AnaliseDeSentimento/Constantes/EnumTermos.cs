@@ -1,4 +1,4 @@
-﻿namespace AnaliseDeSentimento
+﻿namespace AnaliseDeSentimento.Constantes
 {
     public enum EnumTermos
     {

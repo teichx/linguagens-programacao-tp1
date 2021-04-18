@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.IO;
 
-namespace AnaliseDeSentimento
+namespace AnaliseDeSentimento.Arquivo
 {
     public class LerArquivo
     {

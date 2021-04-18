@@ -1,7 +1,8 @@
-﻿using System;
+﻿using AnaliseDeSentimento.Arquivo;
+using AnaliseDeSentimento.Constantes;
 using System.Collections.Generic;
 
-namespace AnaliseDeSentimento
+namespace AnaliseDeSentimento.Entidades
 {
     public class Termos
     {
