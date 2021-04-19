@@ -1,0 +1,13 @@
+Lanchonete La Chapa	1	2	bons: 0; demorado: 0; barulhento: 0; 
+Pizza Crok	0	2	pouquissimos: 0; minusculos: 0; 
+Pizza Craque	0	6	errado: 0; caro: 0; pouquissima: 0; ruim: 0; pessimo: 0; 
+Alibaba's	0	4	errado: 0; caro: 0; pessimo: 0; atrasou: 0; 
+Genio	0	1	remexido: 0; 
+Jeremias	0	1	atrasado: 0; 
+Almeida	0	1	esturricado: 0; 
+Infront	0	1	pior: 0; 
+Sabor do Oriente	0	2	murcho: 0; atrasou: 0; 
+Galimont	0	1	duro: 0; 
+La Borada	0	1	fraco: 0; 
+O Covil	0	1	horrivel: 0; 
+Espetos Espertos	0	2	pessimo: 0; queimada: 0; 

@@ -1,0 +1,10 @@
+Pizzaria Italia	1	1	boa: 0; demorado: 0; 
+Muhamad's	0	0	
+Rei das Esfirras	0	0	
+Adelaidean	0	0	
+Marmitex Delicia	1	1	otima: 0; ruim: 0; 
+Alberto Petiscos	1	1	bonito: 0; pessimo: 0; 
+Restaurante Puro Tempero	0	0	
+Bendita Fome	0	0	
+Pizzao	0	0	
+Pizza e Pao	1	1	boa: 0; demora: 0; 
